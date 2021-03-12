@@ -1,0 +1,15 @@
+`E:\git-tutor>git remote -v`
+
+**由于还没有设置远端，无法push**
+
+`E:\git-tutor>git push`
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+### **为本地仓库添加远端**
